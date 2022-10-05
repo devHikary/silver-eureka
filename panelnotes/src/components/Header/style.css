@@ -1,0 +1,13 @@
+.container{
+  background-color: #70d6ff;
+  box-shadow: 4px 4px 8px #aaaaaa;
+  border-radius: 8px;
+  font-family: 'Roboto', sans-serif;
+  height: 72px;
+  padding: 8px;
+}
+
+h1{
+  text-align: center;
+  margin: 12px 0;
+}
